@@ -10,4 +10,4 @@ Features:
 
 Needs:
 
-- still needs to execute user sign out
+- still need to implement user sign out functionality on line 23 of checkvnc.sh
